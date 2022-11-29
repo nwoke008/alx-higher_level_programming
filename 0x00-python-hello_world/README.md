@@ -1,1 +1,1 @@
-102-magic_calculation
+magic calculation
