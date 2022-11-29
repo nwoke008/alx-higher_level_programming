@@ -1,1 +1,1 @@
-8-uppercase
+9-print_last_digit
