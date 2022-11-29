@@ -1,1 +1,1 @@
-magic cal
+magic-calculation

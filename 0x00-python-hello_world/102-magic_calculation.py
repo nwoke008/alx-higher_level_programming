@@ -3,6 +3,6 @@
 
 
 def magic_calculation(a, b=98):
-"""does exactly same as bytecode given"""
-return a + b
-return a ** b
+        """does exactly same as bytecode given"""
+            return a + b
+            return a ** b
