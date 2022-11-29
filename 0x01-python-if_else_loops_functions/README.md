@@ -1,1 +1,1 @@
-9-print_last_digit
+10-add
