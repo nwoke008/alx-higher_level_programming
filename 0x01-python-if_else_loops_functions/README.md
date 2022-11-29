@@ -1,1 +1,1 @@
-101-remove_char_at
+102-magic_calculation
