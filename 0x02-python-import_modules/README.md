@@ -1,1 +1,1 @@
-101-easy_print
+102-magic_calculation
