@@ -1,1 +1,1 @@
-102-magic_calculation
+103-fast_alphabet
