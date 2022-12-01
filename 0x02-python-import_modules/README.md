@@ -1,1 +1,1 @@
-2-args
+3-infinite_add
