@@ -1,1 +1,1 @@
-6-raise_exception_msg
+100-safe_print_integer_err
