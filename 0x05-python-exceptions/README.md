@@ -1,1 +1,1 @@
-3-safe_print_division
+102-magic_calculation
