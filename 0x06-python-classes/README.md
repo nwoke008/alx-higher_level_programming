@@ -1,1 +1,1 @@
-102-square
+103-magic_class
